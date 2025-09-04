@@ -1,4 +1,4 @@
-﻿namespace CodingTest.Problems
+﻿namespace CodingTest
 {
     internal class Builder
     {
@@ -84,7 +84,27 @@
                         case 8393:
                             Problems.SolvedAc.Problem8393.Run();
                             break;
-
+                        case 25304:
+                            Problems.SolvedAc.Problem25304.Run();
+                            break;
+                        case 25314:
+                            Problems.SolvedAc.Problem25314.Run();
+                            break;
+                        case 11021:
+                            Problems.SolvedAc.Problem11021.Run();
+                            break;
+                        case 11022:
+                            Problems.SolvedAc.Problem11022.Run();
+                            break;
+                        case 2438:
+                            Problems.SolvedAc.Problem2438.Run();
+                            break;
+                        case 10952:
+                            Problems.SolvedAc.Problem10952.Run();
+                            break;
+                        case 10951:
+                            Problems.SolvedAc.Problem10951.Run();
+                            break;
                     }
 
                     _testID = null;
