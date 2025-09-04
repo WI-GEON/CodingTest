@@ -11,7 +11,7 @@
             double a = double.Parse(input[0]);
             double b = double.Parse(input[1]);
 
-            Console.WriteLine((a / b).ToString("R"));\
+            Console.WriteLine((a / b).ToString("R"));
         }
     }
 }

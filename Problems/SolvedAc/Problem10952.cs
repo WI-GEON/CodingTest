@@ -1,5 +1,8 @@
 ﻿namespace CodingTest.Problems.SolvedAc
 {
+    /// <summary>
+    /// solved.ac 10952번 문제 - A + B_5
+    /// </summary>
     internal class Problem10952
     {
         public static void Run()
